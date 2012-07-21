@@ -2,6 +2,8 @@ warai
 =====
 This is a program for obscuring the faces in photo or video with another image or logo. It is written in python, and depends upon Intel's OpenCV libraries, and the Python Imaging Library (PIL). 
 
+This is the very first python program I wrote, so please forgive the 
+general crappyness.
 Usage
 -----
 Once one has the requisite libraries installed, simply run warai.py overlay input output on the command line, and warai will overlay all the faces in file input with file overlay, and save the new file as output.
